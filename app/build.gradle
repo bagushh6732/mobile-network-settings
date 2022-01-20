@@ -5,9 +5,9 @@ android {
     buildToolsVersion "27.0.1"
 
     defaultConfig {
-        applicationId "diewland.settings.mobilenetworks"
-        minSdkVersion 7
-        targetSdkVersion 7
+        applicationId "inyong.settings.mobilenetworks"
+        minSdkVersion 21
+        targetSdkVersion 23
         versionCode 4
         versionName "1.3"
     }
